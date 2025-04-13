@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Test directory
+tests/
+
+# python cache
+__pycache__/
