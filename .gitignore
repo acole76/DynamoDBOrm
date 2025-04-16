@@ -9,3 +9,7 @@ tests/
 
 # python cache
 __pycache__/
+
+# dist
+dist/
+DynamoDbOrm.egg-info/
